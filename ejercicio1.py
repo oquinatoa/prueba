@@ -29,6 +29,9 @@ def devulvevocal(palabra):
 		print 'si es una vocal texto de prueba'
 	else:
 		print 'no es vocal asdadsd'
+		print 'no es vocal asdadsd'
+		print 'no es vocal asdadsd'
+		print 'no es vocal asdadsd'
 
 	
 arre={"s","dd",'sssss'}
