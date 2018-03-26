@@ -26,7 +26,7 @@ def lentarreglo(arreglo):
 def devulvevocal(palabra):
 	palabra=palabra.strip(' ')
 	if palabra=='a' or palabra=='e' or palabra=='i' or palabra=='o' or palabra=='u':
-		print 'si es una vocal'
+		print 'si es una vocal texto de prueba'
 	else:
 		print 'no es vocal'
 
